@@ -1,6 +1,6 @@
 # Ege Can Kaya
 
-PhD candidate in Electrical and Computer Engineering at Purdue University. My research is in reinforcement learning, distributional methods, and optimization, with recent work on optimization for LLM pretraining.
+PhD candidate in Electrical and Computer Engineering at Purdue University. My research is in reinforcement learning, distributional methods, and optimization, with recent work on optimization for LLM post-training.
 
 ## Selected code
 
